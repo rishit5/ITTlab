@@ -1,0 +1,5 @@
+D:\ITT_LAB_160905290\week2\Question1\Question1\bin\Debug\Question1.exe.config
+D:\ITT_LAB_160905290\week2\Question1\Question1\bin\Debug\Question1.exe
+D:\ITT_LAB_160905290\week2\Question1\Question1\bin\Debug\Question1.pdb
+D:\ITT_LAB_160905290\week2\Question1\Question1\obj\Debug\Question1.exe
+D:\ITT_LAB_160905290\week2\Question1\Question1\obj\Debug\Question1.pdb

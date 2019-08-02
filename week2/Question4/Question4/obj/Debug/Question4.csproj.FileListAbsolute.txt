@@ -1,0 +1,8 @@
+C:\Users\Placement\Documents\Visual Studio 2017\Projects\Question4\Question4\bin\Debug\Question4.exe.config
+C:\Users\Placement\Documents\Visual Studio 2017\Projects\Question4\Question4\bin\Debug\Question4.exe
+C:\Users\Placement\Documents\Visual Studio 2017\Projects\Question4\Question4\bin\Debug\Question4.pdb
+C:\Users\Placement\Documents\Visual Studio 2017\Projects\Question4\Question4\obj\Debug\Question4.Form1.resources
+C:\Users\Placement\Documents\Visual Studio 2017\Projects\Question4\Question4\obj\Debug\Question4.Properties.Resources.resources
+C:\Users\Placement\Documents\Visual Studio 2017\Projects\Question4\Question4\obj\Debug\Question4.csproj.GenerateResource.Cache
+C:\Users\Placement\Documents\Visual Studio 2017\Projects\Question4\Question4\obj\Debug\Question4.exe
+C:\Users\Placement\Documents\Visual Studio 2017\Projects\Question4\Question4\obj\Debug\Question4.pdb

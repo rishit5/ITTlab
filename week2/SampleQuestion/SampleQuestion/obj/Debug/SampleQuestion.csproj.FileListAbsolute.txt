@@ -1,0 +1,9 @@
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\bin\Debug\SampleQuestion.exe.config
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\bin\Debug\SampleQuestion.exe
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\bin\Debug\SampleQuestion.pdb
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\obj\Debug\SampleQuestion.csprojResolveAssemblyReference.cache
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\obj\Debug\SampleQuestion.Form1.resources
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\obj\Debug\SampleQuestion.Properties.Resources.resources
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\obj\Debug\SampleQuestion.csproj.GenerateResource.Cache
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\obj\Debug\SampleQuestion.exe
+D:\ITT_LAB_160905290\week2\SampleQuestion\SampleQuestion\obj\Debug\SampleQuestion.pdb

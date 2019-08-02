@@ -1,0 +1,6 @@
+D:\ITT_LAB_160905290\week2\Question2\Question2\bin\Debug\Question2.exe.config
+D:\ITT_LAB_160905290\week2\Question2\Question2\bin\Debug\Question2.exe
+D:\ITT_LAB_160905290\week2\Question2\Question2\bin\Debug\Question2.pdb
+D:\ITT_LAB_160905290\week2\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+D:\ITT_LAB_160905290\week2\Question2\Question2\obj\Debug\Question2.exe
+D:\ITT_LAB_160905290\week2\Question2\Question2\obj\Debug\Question2.pdb

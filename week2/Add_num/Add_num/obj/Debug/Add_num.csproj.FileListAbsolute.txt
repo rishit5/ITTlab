@@ -1,0 +1,6 @@
+D:\ITT_LAB_160905290\week2\Add_num\Add_num\bin\Debug\Add_num.exe.config
+D:\ITT_LAB_160905290\week2\Add_num\Add_num\bin\Debug\Add_num.exe
+D:\ITT_LAB_160905290\week2\Add_num\Add_num\bin\Debug\Add_num.pdb
+D:\ITT_LAB_160905290\week2\Add_num\Add_num\obj\Debug\Add_num.csprojResolveAssemblyReference.cache
+D:\ITT_LAB_160905290\week2\Add_num\Add_num\obj\Debug\Add_num.exe
+D:\ITT_LAB_160905290\week2\Add_num\Add_num\obj\Debug\Add_num.pdb

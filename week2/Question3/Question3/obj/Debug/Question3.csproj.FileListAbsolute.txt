@@ -1,0 +1,8 @@
+c:\users\placement\documents\visual studio 2017\Projects\Question3\Question3\bin\Debug\Question3.exe.config
+c:\users\placement\documents\visual studio 2017\Projects\Question3\Question3\bin\Debug\Question3.exe
+c:\users\placement\documents\visual studio 2017\Projects\Question3\Question3\bin\Debug\Question3.pdb
+c:\users\placement\documents\visual studio 2017\Projects\Question3\Question3\obj\Debug\Question3.Form1.resources
+c:\users\placement\documents\visual studio 2017\Projects\Question3\Question3\obj\Debug\Question3.Properties.Resources.resources
+c:\users\placement\documents\visual studio 2017\Projects\Question3\Question3\obj\Debug\Question3.csproj.GenerateResource.Cache
+c:\users\placement\documents\visual studio 2017\Projects\Question3\Question3\obj\Debug\Question3.exe
+c:\users\placement\documents\visual studio 2017\Projects\Question3\Question3\obj\Debug\Question3.pdb
