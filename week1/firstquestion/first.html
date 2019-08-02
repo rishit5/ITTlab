@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel='stylesheet' href='first.css'>
+</head>
+<body>
+	<div>
+		<h1 onmouseover="position(this)">
+			Hello world!
+		</h1>
+	</div>
+	<hr>
+	<div>
+		<p onmouseover="position(this)">
+			This is the paragraph tag!
+		</p>
+	</div>
+	<hr>
+	<div>
+		<span id="x">
+		</span>
+		<br>
+		<span id="y">
+		</span>
+	</div>
+ 	
+</body>
+<script type="text/javascript">
+	function position(el) {
+		document.getElementById('y').innerHTML = 'Y is ' + el.offsetTop;
+		document.getElementById('x').innerHTML = 'X is ' + el.offsetLeft;
+	}
+</script>
+</html>

@@ -1,0 +1,11 @@
+div {
+	border: black 2px solid;
+	width: 70%;
+	margin: auto;
+	text-align: center;
+	background-color: red;
+}
+canvas {
+	height: 400px;
+	width: inherit;
+}
